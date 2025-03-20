@@ -28,6 +28,23 @@ As principais tecnologias utilizadas durante o curso incluem:
 - **Banco de Dados:** PostgreSQL, MongoDB
 - **Ferramentas:** Docker, Git, CI/CD, Kubernetes
 
+## 📁 Estrutura do Repositório
+
+```
+📂 pos-fullstack
+│── 📂 modulos
+│   │── 📂 modulo-1-introducao
+│   │── 📂 modulo-2-backend
+│   │── 📂 modulo-3-frontend
+│   │── 📂 modulo-4-devops
+│   └── 📂 modulo-5-projeto-final
+│── 📂 projetos
+│── 📂 anotações
+│── 📂 desafios
+└── README.md
+```
+
+
 ## 📌 Projetos
 
 Os projetos desenvolvidos ao longo do curso estarão disponíveis na pasta `projetos`, incluindo o projeto final, que resolverá um problema do mundo real.
